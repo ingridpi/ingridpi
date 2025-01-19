@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ingridpi
 - 👀 I’m interested in coding and books.
-- 🌱 I’m currently learning Software Engineering and Data Science
+- 🌱 I’m currently pursuing a Master's in Computational Finance
 - 💞️ I’m looking to collaborate on Artificial Intelligence
-- 📫 Reach me by email at 99.perez.in@gmail.com 
